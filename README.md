@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/21/17
 
 ### Student Name:  
-(First and Last Name)
+Anais Bergues
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I enhanced an API-centric web application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://anaisbergues.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Build an app using API
+2. Parse JSON data from an HTTP response message and continued understanding how AJAX methods work
+3. How to get my own API key 
